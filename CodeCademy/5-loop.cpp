@@ -14,7 +14,7 @@ int main() {
   while (guess != 8 && tries < 50) {
  
   std::cout << "Wrong guess, try again: ";
-  std::cin >> guess;/Users/lynda/Desktop/repo/Cpp-Adventures/CodeCademy
+  std::cin >> guess;
  
   tries++;
  
