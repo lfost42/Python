@@ -1,4 +1,4 @@
-# Cpp-Adventures
-Learning CPP
+# PythonAdventures
+Learning Python
 
 

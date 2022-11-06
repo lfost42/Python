@@ -1,7 +1,0 @@
-
-
-
-
-/* RESULT
-
-END RESULT */
