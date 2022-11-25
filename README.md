@@ -1,3 +1,3 @@
-# Python Learning Exercises
+# Python Learning Adventures
 
 
